@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1500" width="1200" height="1500">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#DCE2E1"/><stop offset="1" stop-color="#F1F1EC"/></linearGradient>
+  </defs>
+  
+    <rect width="1200" height="1500" fill="#EDE7DC"/>
+    <rect y="1080" width="1200" height="420" fill="#BFA282"/>
+    <rect y="1074" width="1200" height="6" fill="#7C7266" opacity="0.35"/>
+    <g transform="translate(417.5923072189021,240)">
+      <rect x="-14" y="-14" width="340" height="628" fill="#F7F3EA"/>
+      <rect width="312" height="600" fill="#DCE2E1"/>
+      <path d="M0,600 L0,370.1 L20,347.9 L40,323.1 L60,301.1 L80,286.2 L100,280.4 L120,283.8 L140,294.1 L160,308.4 L180,323.8 L200,337.9 L220,349.8 L240,359.1 L260,365.5 L280,368.7 L300,367.8 L312,600 Z" fill="#A6B3AF"/>
+      <path d="M0,600 L0,385.1 L20,374.8 L40,380.1 L60,397.0 L80,417.7 L100,435.3 L120,447.5 L140,456.4 L160,465.1 L180,473.9 L200,478.8 L220,474.0 L240,456.8 L260,430.0 L280,402.1 L300,382.9 L312,600 Z" fill="#2F3D34"/>
+      <rect x="152" width="8" height="600" fill="#F7F3EA"/>
+      <rect y="296" width="312" height="8" fill="#F7F3EA"/>
+    </g>
+    <rect x="672.0000000000001" y="780" width="384" height="300" rx="18" fill="#A89BB0"/>
+    <rect x="648" y="660" width="432" height="150" rx="18" fill="#A89BB0" opacity="0.82"/>
+    <rect x="120" y="1200" width="408.00000000000006" height="180" fill="#7C7266" opacity="0.2"/>
+    
+  <g transform="translate(420,105.00000000000001)">
+    <rect width="360" height="60" fill="#F7F3EA" opacity="0.9"/>
+    <text x="24" y="24" font-family="Helvetica, Arial, sans-serif" font-size="12" letter-spacing="3" fill="#8C5A2E">PLACEHOLDER IMAGE</text>
+    <text x="24" y="46" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#26311F">Farmhouse bedroom</text>
+  </g>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1067" width="1600" height="1067">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E6D3C2"/><stop offset="1" stop-color="#F3E8DA"/></linearGradient>
+  </defs>
+  
+    <rect width="1600" height="1067" fill="#DCE0D6"/>
+    <rect y="768.24" width="1600" height="298.76" fill="#9C7B58"/>
+    <rect y="762.24" width="1600" height="6" fill="#33452B" opacity="0.35"/>
+    <g transform="translate(470.1462002304813,170.72)">
+      <rect x="-14" y="-14" width="444" height="454.8" fill="#F7F3EA"/>
+      <rect width="416" height="426.8" fill="#E6D3C2"/>
+      <path d="M0,426.8 L0,239.1 L20,254.7 L40,267.3 L60,274.7 L80,275.7 L100,270.2 L120,259.3 L140,245.3 L160,230.7 L180,217.8 L200,208.5 L220,203.5 L240,203.1 L260,206.3 L280,212.2 L300,219.6 L320,227.7 L340,235.8 L360,243.7 L380,251.1 L400,257.5 L416,426.8 Z" fill="#928679"/>
+      <path d="M0,426.8 L0,320.4 L20,334.4 L40,345.4 L60,348.6 L80,343.1 L100,332.2 L120,321.3 L140,313.9 L160,309.6 L180,304.6 L200,295.9 L220,283.5 L240,271.7 L260,265.8 L280,268.8 L300,279.2 L320,292.0 L340,302.2 L360,308.1 L380,312.2 L400,318.4 L416,426.8 Z" fill="#2B3024"/>
+      <rect x="204" width="8" height="426.8" fill="#F7F3EA"/>
+      <rect y="209.4" width="416" height="8" fill="#F7F3EA"/>
+    </g>
+    <rect x="896.0000000000001" y="554.84" width="512" height="213.4" rx="18" fill="#BC9468"/>
+    <rect x="864" y="469.47999999999996" width="576" height="106.7" rx="18" fill="#BC9468" opacity="0.82"/>
+    <rect x="160" y="853.6" width="544" height="128.04" fill="#33452B" opacity="0.2"/>
+    
+  <g transform="translate(617,74.69000000000001)">
+    <rect width="366" height="60" fill="#F7F3EA" opacity="0.9"/>
+    <text x="24" y="24" font-family="Helvetica, Arial, sans-serif" font-size="12" letter-spacing="3" fill="#8C5A2E">PLACEHOLDER IMAGE</text>
+    <text x="24" y="46" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#26311F">Lodge dining table</text>
+  </g>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1067" width="1600" height="1067">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#DCE2E1"/><stop offset="1" stop-color="#F1F1EC"/></linearGradient>
+  </defs>
+  
+    <rect width="1600" height="1067" fill="#DCE0D6"/>
+    <rect y="768.24" width="1600" height="298.76" fill="#9C7B58"/>
+    <rect y="762.24" width="1600" height="6" fill="#33452B" opacity="0.35"/>
+    <g transform="translate(521.2317299034743,170.72)">
+      <rect x="-14" y="-14" width="444" height="454.8" fill="#F7F3EA"/>
+      <rect width="416" height="426.8" fill="#DCE2E1"/>
+      <path d="M0,426.8 L0,222.9 L20,208.6 L40,197.4 L60,193.6 L80,198.3 L100,208.4 L120,218.9 L140,226.3 L160,230.7 L180,235.4 L200,243.6 L220,255.6 L240,268.0 L260,275.6 L280,274.9 L300,266.2 L320,253.7 L340,242.6 L360,235.4 L380,231.0 L400,226.0 L416,426.8 Z" fill="#A6B3AF"/>
+      <path d="M0,426.8 L0,334.7 L20,332.4 L40,329.8 L60,326.9 L80,323.4 L100,318.8 L120,312.7 L140,305.1 L160,296.2 L180,286.8 L200,278.0 L220,271.0 L240,267.1 L260,266.9 L280,270.9 L300,278.6 L320,289.2 L340,301.1 L360,312.9 L380,323.3 L400,331.2 L416,426.8 Z" fill="#2F3D34"/>
+      <rect x="204" width="8" height="426.8" fill="#F7F3EA"/>
+      <rect y="209.4" width="416" height="8" fill="#F7F3EA"/>
+    </g>
+    <rect x="896.0000000000001" y="554.84" width="512" height="213.4" rx="18" fill="#BC9468"/>
+    <rect x="864" y="469.47999999999996" width="576" height="106.7" rx="18" fill="#BC9468" opacity="0.82"/>
+    <rect x="160" y="853.6" width="544" height="128.04" fill="#33452B" opacity="0.2"/>
+    
+  <g transform="translate(620,74.69000000000001)">
+    <rect width="360" height="60" fill="#F7F3EA" opacity="0.9"/>
+    <text x="24" y="24" font-family="Helvetica, Arial, sans-serif" font-size="12" letter-spacing="3" fill="#8C5A2E">PLACEHOLDER IMAGE</text>
+    <text x="24" y="46" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#26311F">Cottage kitchen</text>
+  </g>
+</svg>

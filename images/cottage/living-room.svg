@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1067" width="1600" height="1067">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E3E8DF"/><stop offset="1" stop-color="#F5F2EA"/></linearGradient>
+  </defs>
+  
+    <rect width="1600" height="1067" fill="#EDE7DC"/>
+    <rect y="768.24" width="1600" height="298.76" fill="#BFA282"/>
+    <rect y="762.24" width="1600" height="6" fill="#7C7266" opacity="0.35"/>
+    <g transform="translate(582.8759708766603,170.72)">
+      <rect x="-14" y="-14" width="444" height="454.8" fill="#F7F3EA"/>
+      <rect width="416" height="426.8" fill="#E3E8DF"/>
+      <path d="M0,426.8 L0,246.5 L20,236.6 L40,230.5 L60,227.7 L80,225.8 L100,221.9 L120,214.9 L140,205.8 L160,197.5 L180,193.2 L200,195.0 L220,202.1 L240,211.7 L260,220.5 L280,226.3 L300,229.1 L320,231.2 L340,235.4 L360,243.2 L380,254.0 L400,265.1 L416,426.8 Z" fill="#9FAD8E"/>
+      <path d="M0,426.8 L0,298.5 L20,304.5 L40,312.5 L60,321.9 L80,331.7 L100,340.2 L120,346.1 L140,348.5 L160,347.1 L180,342.4 L200,335.5 L220,327.8 L240,320.5 L260,314.5 L280,310.0 L300,306.6 L320,303.4 L340,299.5 L360,294.4 L380,288.0 L400,280.8 L416,426.8 Z" fill="#33452B"/>
+      <rect x="204" width="8" height="426.8" fill="#F7F3EA"/>
+      <rect y="209.4" width="416" height="8" fill="#F7F3EA"/>
+    </g>
+    <rect x="896.0000000000001" y="554.84" width="512" height="213.4" rx="18" fill="#A89BB0"/>
+    <rect x="864" y="469.47999999999996" width="576" height="106.7" rx="18" fill="#A89BB0" opacity="0.82"/>
+    <rect x="160" y="853.6" width="544" height="128.04" fill="#7C7266" opacity="0.2"/>
+    
+  <g transform="translate(608.5,74.69000000000001)">
+    <rect width="383" height="60" fill="#F7F3EA" opacity="0.9"/>
+    <text x="24" y="24" font-family="Helvetica, Arial, sans-serif" font-size="12" letter-spacing="3" fill="#8C5A2E">PLACEHOLDER IMAGE</text>
+    <text x="24" y="46" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#26311F">Cottage living room</text>
+  </g>
+</svg>

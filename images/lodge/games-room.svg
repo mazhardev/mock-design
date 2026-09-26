@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1067" width="1600" height="1067">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E3E8DF"/><stop offset="1" stop-color="#F5F2EA"/></linearGradient>
+  </defs>
+  
+    <rect width="1600" height="1067" fill="#DCE0D6"/>
+    <rect y="768.24" width="1600" height="298.76" fill="#9C7B58"/>
+    <rect y="762.24" width="1600" height="6" fill="#33452B" opacity="0.35"/>
+    <g transform="translate(529.4613137109776,170.72)">
+      <rect x="-14" y="-14" width="444" height="454.8" fill="#F7F3EA"/>
+      <rect width="416" height="426.8" fill="#E3E8DF"/>
+      <path d="M0,426.8 L0,195.8 L20,197.4 L40,201.8 L60,207.4 L80,213.1 L100,217.7 L120,221.2 L140,223.9 L160,226.9 L180,231.2 L200,237.5 L220,245.7 L240,255.0 L260,264.2 L280,271.6 L300,275.7 L320,275.9 L340,272.1 L360,265.3 L380,257.0 L400,248.7 L416,426.8 Z" fill="#9FAD8E"/>
+      <path d="M0,426.8 L0,307.3 L20,322.6 L40,335.7 L60,344.5 L80,347.8 L100,345.2 L120,337.5 L140,326.4 L160,313.8 L180,301.6 L200,291.4 L220,284.1 L240,280.1 L260,279.0 L280,280.3 L300,283.3 L320,287.8 L340,293.4 L360,300.3 L380,308.3 L400,317.2 L416,426.8 Z" fill="#33452B"/>
+      <rect x="204" width="8" height="426.8" fill="#F7F3EA"/>
+      <rect y="209.4" width="416" height="8" fill="#F7F3EA"/>
+    </g>
+    <rect x="896.0000000000001" y="554.84" width="512" height="213.4" rx="18" fill="#BC9468"/>
+    <rect x="864" y="469.47999999999996" width="576" height="106.7" rx="18" fill="#BC9468" opacity="0.82"/>
+    <rect x="160" y="853.6" width="544" height="128.04" fill="#33452B" opacity="0.2"/>
+    
+  <g transform="translate(620,74.69000000000001)">
+    <rect width="360" height="60" fill="#F7F3EA" opacity="0.9"/>
+    <text x="24" y="24" font-family="Helvetica, Arial, sans-serif" font-size="12" letter-spacing="3" fill="#8C5A2E">PLACEHOLDER IMAGE</text>
+    <text x="24" y="46" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#26311F">Lodge games room</text>
+  </g>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1067" width="1600" height="1067">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#EFE2D0"/><stop offset="1" stop-color="#F6EFE3"/></linearGradient>
+  </defs>
+  
+    <rect width="1600" height="1067" fill="#E6DAC8"/>
+    <rect y="768.24" width="1600" height="298.76" fill="#A9825C"/>
+    <rect y="762.24" width="1600" height="6" fill="#8C5A2E" opacity="0.35"/>
+    <g transform="translate(548.715434317212,170.72)">
+      <rect x="-14" y="-14" width="444" height="454.8" fill="#F7F3EA"/>
+      <rect width="416" height="426.8" fill="#EFE2D0"/>
+      <path d="M0,426.8 L0,269.6 L20,261.3 L40,251.2 L60,241.0 L80,232.0 L100,225.0 L120,220.2 L140,217.2 L160,215.0 L180,212.7 L200,209.9 L220,206.5 L240,203.2 L260,200.9 L280,200.8 L300,203.9 L320,210.5 L340,220.1 L360,231.6 L380,243.5 L400,254.1 L416,426.8 Z" fill="#BC9468"/>
+      <path d="M0,426.8 L0,268.9 L20,269.6 L40,274.0 L60,280.1 L80,286.1 L100,290.8 L120,294.1 L140,297.1 L160,301.2 L180,307.5 L200,316.4 L220,327.0 L240,337.3 L260,345.2 L280,348.7 L300,347.2 L320,341.2 L340,332.5 L360,323.3 L380,315.2 L400,309.3 L416,426.8 Z" fill="#3E3A24"/>
+      <rect x="204" width="8" height="426.8" fill="#F7F3EA"/>
+      <rect y="209.4" width="416" height="8" fill="#F7F3EA"/>
+    </g>
+    <rect x="896.0000000000001" y="554.84" width="512" height="213.4" rx="18" fill="#6C7E57"/>
+    <rect x="864" y="469.47999999999996" width="576" height="106.7" rx="18" fill="#6C7E57" opacity="0.82"/>
+    <rect x="160" y="853.6" width="544" height="128.04" fill="#8C5A2E" opacity="0.2"/>
+    <rect x="128" y="448.14000000000004" width="224.00000000000003" height="320.09999999999997" fill="#8F877B"/><rect x="168" y="597.52" width="144" height="170.72" fill="#3A332B"/><ellipse cx="240" cy="725.5600000000001" rx="40" ry="42.68" fill="#D9894A" opacity="0.9"/>
+  <g transform="translate(506.5,74.69000000000001)">
+    <rect width="587" height="60" fill="#F7F3EA" opacity="0.9"/>
+    <text x="24" y="24" font-family="Helvetica, Arial, sans-serif" font-size="12" letter-spacing="3" fill="#8C5A2E">PLACEHOLDER IMAGE</text>
+    <text x="24" y="46" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#26311F">Lodge living room and open fire</text>
+  </g>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1067" width="1600" height="1067">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E3E8DF"/><stop offset="1" stop-color="#F5F2EA"/></linearGradient>
+  </defs>
+  
+    <rect width="1600" height="1067" fill="#DCE0D6"/>
+    <rect y="768.24" width="1600" height="298.76" fill="#9C7B58"/>
+    <rect y="762.24" width="1600" height="6" fill="#33452B" opacity="0.35"/>
+    <g transform="translate(556.4791926261776,170.72)">
+      <rect x="-14" y="-14" width="444" height="454.8" fill="#F7F3EA"/>
+      <rect width="416" height="426.8" fill="#E3E8DF"/>
+      <path d="M0,426.8 L0,264.9 L20,263.0 L40,260.8 L60,258.8 L80,256.9 L100,254.9 L120,252.6 L140,249.4 L160,244.8 L180,238.8 L200,231.3 L220,222.8 L240,214.0 L260,205.8 L280,199.0 L300,194.6 L320,193.1 L340,194.6 L360,199.1 L380,205.8 L400,214.1 L416,426.8 Z" fill="#9FAD8E"/>
+      <path d="M0,426.8 L0,315.0 L20,323.9 L40,333.3 L60,341.4 L80,346.3 L100,346.5 L120,341.3 L140,331.4 L160,318.1 L180,304.0 L200,291.2 L220,281.7 L240,276.4 L260,275.2 L280,276.9 L300,280.3 L320,284.3 L340,288.3 L360,292.4 L380,297.3 L400,303.8 L416,426.8 Z" fill="#33452B"/>
+      <rect x="204" width="8" height="426.8" fill="#F7F3EA"/>
+      <rect y="209.4" width="416" height="8" fill="#F7F3EA"/>
+    </g>
+    <rect x="896.0000000000001" y="554.84" width="512" height="213.4" rx="18" fill="#BC9468"/>
+    <rect x="864" y="469.47999999999996" width="576" height="106.7" rx="18" fill="#BC9468" opacity="0.82"/>
+    <rect x="160" y="853.6" width="544" height="128.04" fill="#33452B" opacity="0.2"/>
+    
+  <g transform="translate(620,74.69000000000001)">
+    <rect width="360" height="60" fill="#F7F3EA" opacity="0.9"/>
+    <text x="24" y="24" font-family="Helvetica, Arial, sans-serif" font-size="12" letter-spacing="3" fill="#8C5A2E">PLACEHOLDER IMAGE</text>
+    <text x="24" y="46" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#26311F">Farmhouse kitchen</text>
+  </g>
+</svg>

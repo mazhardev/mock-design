@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1500" width="1200" height="1500">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E3E8DF"/><stop offset="1" stop-color="#F5F2EA"/></linearGradient>
+  </defs>
+  
+    <rect width="1200" height="1500" fill="#EDE7DC"/>
+    <rect y="1080" width="1200" height="420" fill="#BFA282"/>
+    <rect y="1074" width="1200" height="6" fill="#7C7266" opacity="0.35"/>
+    <g transform="translate(472.67617242101227,240)">
+      <rect x="-14" y="-14" width="340" height="628" fill="#F7F3EA"/>
+      <rect width="312" height="600" fill="#E3E8DF"/>
+      <path d="M0,600 L0,352.2 L20,370.8 L40,381.6 L60,381.2 L80,369.0 L100,347.0 L120,320.2 L140,294.9 L160,277.1 L180,271.6 L200,279.7 L220,299.5 L240,326.2 L260,353.3 L280,374.3 L300,384.6 L312,600 Z" fill="#9FAD8E"/>
+      <path d="M0,600 L0,482.6 L20,466.6 L40,451.9 L60,442.1 L80,428.0 L100,404.0 L120,380.2 L140,374.3 L160,391.8 L180,419.5 L200,440.3 L220,450.8 L240,460.5 L260,475.0 L280,484.7 L300,475.3 L312,600 Z" fill="#33452B"/>
+      <rect x="152" width="8" height="600" fill="#F7F3EA"/>
+      <rect y="296" width="312" height="8" fill="#F7F3EA"/>
+    </g>
+    <rect x="672.0000000000001" y="780" width="384" height="300" rx="18" fill="#A89BB0"/>
+    <rect x="648" y="660" width="432" height="150" rx="18" fill="#A89BB0" opacity="0.82"/>
+    <rect x="120" y="1200" width="408.00000000000006" height="180" fill="#7C7266" opacity="0.2"/>
+    
+  <g transform="translate(420,105.00000000000001)">
+    <rect width="360" height="60" fill="#F7F3EA" opacity="0.9"/>
+    <text x="24" y="24" font-family="Helvetica, Arial, sans-serif" font-size="12" letter-spacing="3" fill="#8C5A2E">PLACEHOLDER IMAGE</text>
+    <text x="24" y="46" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#26311F">Sawmill kitchen</text>
+  </g>
+</svg>
